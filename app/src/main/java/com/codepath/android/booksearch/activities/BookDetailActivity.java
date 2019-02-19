@@ -37,6 +37,7 @@ public class BookDetailActivity extends ActionBarActivity {
     private TextView tvPageCount;
     private BookClient client;
     public  BookDetails;
+    public  BookNewName;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
